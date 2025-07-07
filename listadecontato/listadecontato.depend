@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1749349194 source:e:\engcomp - 2025\estrtura de dados\projeto final\listadecontato\listact.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"listact.h"
+	<string.h>
+	<ctype.h>
+
+1749316106 e:\engcomp - 2025\estrtura de dados\projeto final\listadecontato\listact.h
+
+1749349194 source:e:\engcomp - 2025\estrtura de dados\projeto final\listadecontato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"listact.h"
+
+1749432910 source:e:\engcomp - 2025\estrtura de dados\projeto final - eda1\listadecontato\listact.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"listact.h"
+	<string.h>
+	<ctype.h>
+
+1749424512 e:\engcomp - 2025\estrtura de dados\projeto final - eda1\listadecontato\listact.h
+
+1749475116 source:e:\engcomp - 2025\estrtura de dados\projeto final - eda1\listadecontato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"listact.h"
+
+1749432910 source:c:\users\anac5\desktop\c”pia - projeto eda1\listadecontato\listact.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"listact.h"
+	<string.h>
+	<ctype.h>
+
+1749424512 c:\users\anac5\desktop\c”pia - projeto eda1\listadecontato\listact.h
+
+1749475116 source:c:\users\anac5\desktop\c”pia - projeto eda1\listadecontato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"listact.h"
+
