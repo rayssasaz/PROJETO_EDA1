@@ -42,6 +42,6 @@ nova seção de trabalho.
 - **Gravação das informações**: Antes do encerramento do aplicativo, é executada a rotina para a gravação de todos os dados que estão presentes na Lista Dinâmica para um arquivo binário, de forma que não há perda de informações. Posteriormente, a memória alocada para a lista é liberada, e o programa, encerrado. A função salvaDados percorre a lista e escreve cada dado da struct cliente, salvado-os no arquivo que, caso já exista, será sobrescrito. 
 
 ## 🚀 Sobre mim
-Sou estudante de Engenharia de Computação no Instituto Federal de Ciência e Tecnologia de São Paulo - IFSP. Desenvolvi este projeto ao cursar a disciplina Estrutura de Dados 1 no terceiro semestre da minha graduação, atigindo os objetivos propostos em sala de aula. 
+Sou estudante de Engenharia de Computação no Instituto Federal de Ciência e Tecnologia de São Paulo - IFSP. Desenvolvi este projeto ao cursar a disciplina Estrutura de Dados 1 no terceiro semestre da minha graduação, implementando os conhecimentos adquiridos em sala de aula. 
 
 Para mim, foi gratificante conhecer e trabalhar com a linguagem C. Devo dizer, inclusive, que se tornou uma das minhas linguagens preferidas de programação, embora eu ainda tenha muito a explorar no vasto universo dessa linguagem magnífica.
