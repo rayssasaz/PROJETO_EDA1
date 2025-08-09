@@ -15,6 +15,9 @@ impedindo que haja contatos com códigos iguais, funcionalidade semelhante às c
 primárias em bancos de dados. Por fim, era necessário que todos os dados inseridos fossem
 devidamente gravados num arquivo binário, para posterior recuperação dos mesmos numa
 nova seção de trabalho.
+
+
+Desenvolvido no 3º semestre de Engenharia de Computação como projeto final para a disciplina Estrutura de Dados 1.
 ## 👩‍💻 Stack utilizada
 
 - Linguagem C
@@ -45,3 +48,4 @@ nova seção de trabalho.
 Sou estudante de Engenharia de Computação no Instituto Federal de Ciência e Tecnologia de São Paulo - IFSP. Desenvolvi este projeto ao cursar a disciplina Estrutura de Dados 1 no terceiro semestre da minha graduação, implementando os conhecimentos adquiridos em sala de aula. 
 
 Para mim, foi gratificante conhecer e trabalhar com a linguagem C. Devo dizer, inclusive, que se tornou uma das minhas linguagens preferidas de programação, embora eu ainda tenha muito a explorar no vasto universo dessa linguagem magnífica.
+
